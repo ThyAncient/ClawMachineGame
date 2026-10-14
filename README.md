@@ -1,7 +1,7 @@
 # ClawMachineGame
 
 <p align="center">
-  <img width="900" alt="ClawMachineGame Screenshot" src="https://github.com/user-attachments/assets/862614e1-8742-41fe-83a0-d84e7a9973df" />
+  <img width="398" height="887" alt="Image" src="https://github.com/user-attachments/assets/af562356-1227-4d19-8a90-1d8f5a483886" />
 </p>
 
 <p align="center">
